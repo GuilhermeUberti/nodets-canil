@@ -15,5 +15,9 @@
         </div>
     {{/list}}
 </div>
-
+    {{^list}}
+        <div class="container no-list">
+            <h2>Erro de busca, nenhum Pet encontrado!</h2>
+        </div>
+    {{/list}}
 {{>partials/footer}}

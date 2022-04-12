@@ -61,7 +61,7 @@ const data: Pet[] = [{
     type: 'cat',
     image: 'persa.jpg',
     name: 'Persa',
-    color: 'Amarelo',
+    color: 'Branco',
     sex: 'Masculino'
 },
 {
